@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "aamon - marquis of hell",
+      "image": "/images/aamon - marquis of hell.jpg"
+    },
+    {
+      "id": 2,
+      "name": "asmodeus - prince of demons",
+      "image": "/images/asmodeus - prince of demons.jpg"
+    },
+    {
+      "id": 3,
+      "name": "astaroth - great duke of hell",
+      "image": "/images/astaroth - great duke of hell.jpg"
+    },
+    {
+      "id": 4,
+      "name": "barbatos - duke of hell",
+      "image": "/images/barbatos - duke of hell.jpg"
+    },
+    {
+      "id": 5,
+      "name": "buer - great president of hell",
+      "image": "/images/buer - great president of hell.jpg"
+    },
+    {
+      "id": 6,
+      "name": "gaap - demon",
+      "image": "/images/gaap - demon.jpg"
+    },
+    {
+      "id": 7,
+      "name": "king baal",
+      "image": "/images/king baal.jpg"
+    },
+    {
+      "id": 8,
+      "name": "marchocias - marquis of hell",
+      "image": "/images/marchocias - marquis of hell.jpg"
+    },
+    {
+      "id": 9,
+      "name": "naberius - marquis of hell",
+      "image": "/images/naberius - marquis of hell.jpg"
+    },
+    {
+      "id": 10,
+      "name": "purson - great king of hell",
+      "image": "/images/purson - great king of hell.jpg"
+    },
+    {
+      "id": 11,
+      "name": "ronove - great earl of hell",
+      "image": "/images/ronove - great earl of hell.jpg"
+    },
+    {
+      "id": 12,
+      "name": "vual - great duke of hell",
+      "image": "/images/vual - great duke of hell.jpg"
+    }
+  ]
